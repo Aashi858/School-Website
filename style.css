@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: paleturquoise;
+}
+
+#schoolname {
+    width: 600px;
+    height: 400px;
+    margin-top: 50px;
+    border-color: deepskyblue;
+    border-width: thick;
+    padding: 5px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.gallery {
+    width: 500px;
+    height: 300px;
+    margin: 5px;
+}
+.acheive{
+width: 300px;
+    height: 400px;
+    margin: 10px;
+}
+#contacts{
+    text-align: center;
+    font-size: 10px;
+}
