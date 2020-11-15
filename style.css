@@ -21,12 +21,35 @@ p {
     height: 300px;
     margin: 5px;
 }
-.acheive{
-width: 300px;
+
+.acheive {
+    width: 300px;
     height: 400px;
     margin: 10px;
 }
-#contacts{
+
+#contacts {
     text-align: center;
     font-size: 10px;
+}
+
+#acheivementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head img {
+    height: 500px;
 }
